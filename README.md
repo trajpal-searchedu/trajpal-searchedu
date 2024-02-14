@@ -2,7 +2,7 @@
 <h1 align="center">Hi  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" /> My name is Tushant Rajpal</h1>
 <h3 align="center">I am a full-stack developer & also I like solving complicated problems. Because when I see problems, it challenges me to do better things. As a developer, I am always curious to know about new technology and try to explore them.  </h3>
 <p align="center"><img  width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"/img> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotiranjan1997&label=Profile%20views&color=0e75b6&style=flat" alt="jyotiranjan1997" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=trajpal-searchedu&label=Profile%20views&color=0e75b6&style=flat" alt="trajpal-searchedu" /> </p>
 
 
 FULL STACK DEVLOPER
@@ -10,7 +10,7 @@ FULL STACK DEVLOPER
 
 * 🌍  I'm based in Jagatsinghpur, Odisha
 * ✉️  You can contact me at [mohanty.ryzen@gmail.com](mailto:mohanty.ryzen@gmail.com)
-* 🌍  You can see all my project and details on <a href="https://jyotiranjan1997.github.io">Portfolio </a> 
+* 🌍  You can see all my project and details on <a href="https://trajpal-searchedu.github.io">Portfolio </a> 
 * 🧠  I'm learning Full stack Devlopement
 * 🤝  I'm open to collaborating on Interesting Projects
 
@@ -45,23 +45,23 @@ FULL STACK DEVLOPER
 
 ## 👨🏻‍💻 My GitHub Stats
 
-<a href="http://www.github.com/jyotiranjan1997"><img src="https://github-readme-stats.vercel.app/api?username=jyotiranjan1997&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="jyotiranjan1997's GitHub stats" /></a>
+<a href="http://www.github.com/trajpal-searchedu"><img src="https://github-readme-stats.vercel.app/api?username=trajpal-searchedu&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="trajpal-searchedu's GitHub stats" /></a>
 
-<a href="http://www.github.com/jyotiranjan1997"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jyotiranjan1997&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/trajpal-searchedu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=trajpal-searchedu&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/jyotiranjan1997"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=jyotiranjan1997&bg_color=1c1917&color=ffffff&line=84cc16&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/trajpal-searchedu"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=trajpal-searchedu&bg_color=1c1917&color=ffffff&line=84cc16&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/jyotiranjan1997" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotiranjan1997&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/trajpal-searchedu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trajpal-searchedu&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/jyotiranjan1997/BeautyCart" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jyotiranjan1997&repo=BeautyCart&title_color=f97316&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/trajpal-searchedu/BeautyCart" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=trajpal-searchedu&repo=BeautyCart&title_color=f97316&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 
 
 ## 👨🏻‍💻 My LeetCode Stats
 
- ![LeetCode Stats](https://leetcode.card.workers.dev/jyotiranjan1997?theme=dark&font=baloo&extension=null)
+ ![LeetCode Stats](https://leetcode.card.workers.dev/trajpal-searchedu?theme=dark&font=baloo&extension=null)
 
 ## 📩 Contact Me 👇
 
@@ -79,6 +79,6 @@ FULL STACK DEVLOPER
 </a>
 
 <!---
-jyotiranjan1997/jyotiranjan1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+trajpal-searchedu/trajpal-searchedu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
